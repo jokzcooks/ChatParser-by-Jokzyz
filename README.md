@@ -53,7 +53,7 @@ cd ChatParserForVansBot
 ```
 # Using My Parser
 
-#### To run the program, go back to cmd and input the command "py account.py"
+#### To run the program, go back to cmd and input the command "py parser.py"
 
 > This will first parse the chat and save all of the accounts to output.txt in the format "email:password"
 
