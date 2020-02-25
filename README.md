@@ -64,6 +64,8 @@ cd ChatParserForVansBot
 
 # Important
 
+#### Please note that this program does delete and recreate the output.txt every time you run it, so if you are running the program with a new message log input, you will need to copy the file and paste it elsewhere before running the parser with the new log!
+
 This program is curated to work with direct messages between you and `Vans Bot#1459`! If you are using a different account generator, you may have to change up a few things with the code:
 
 The success message that is  being parsed is:
