@@ -5,7 +5,7 @@ Clone the repository:
 open command prompt and do the following:
 cd desktop
 git clone https://github.com/jokzcooks/ChatParserForVansBot
-cd desktop/ChatParserForVansBot
+cd ChatParserForVansBot
 ```
 
 In order to download your chats, you will need the Discord Chat Exporter and you will need to download and install .NET Core runtime from https://github.com/Tyrrrz/DiscordChatExporter/wiki/Install-.NET-Core-runtime
